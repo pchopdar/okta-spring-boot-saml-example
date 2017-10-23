@@ -3,6 +3,7 @@
 To see this application in action, complete the following steps:
 
 1. Create an Okta account at http://developer.okta.com.
+Account created .. My Octa url- "dev-695539.oktapreview.com" 
 2. Create a SAML application and configure metadata URL in `application.properties`.
 3. Assign a user to the application.
 4. Start and run the application using `./mvnw spring-boot:run`.
